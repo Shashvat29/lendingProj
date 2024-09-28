@@ -1,0 +1,23 @@
+# Finance Project
+
+## Introduction
+This project focuses on analyzing financial data, performing transformations, and generating reports. It is designed to automate financial data processing and provide insights through analysis.
+
+## Project Structure
+- `src/`: Contains the source code for data analysis and processing.
+- `data/`: Includes datasets used in the project.
+- `docs/`: Holds the project documentation.
+- `tests/`: Contains unit tests for the project.
+
+## Getting Started
+1. Install the necessary dependencies from `requirements.txt`.
+2. Run the `src/main.py` script to start the project.
+
+## Requirements
+- Python 3.x
+- pandas
+- numpy
+- matplotlib
+
+## Author
+Shashvat Vashishtha
